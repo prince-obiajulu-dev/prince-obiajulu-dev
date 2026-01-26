@@ -1,7 +1,7 @@
 ## Hi, I'm obiajulu ​✨​
 
 <p align="center">I'm a frontend developer who enjoys creating responsive, user-friendly web experiences. I focus on building smooth, modern interfaces that look great and work well across all devices. I'm passionate about design, detail, and delivering high-quality digital products.</p>
-<p align="center">
+<p align="left">
  <a href="https://obiajulu-dev.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/obiajulu_dev" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
