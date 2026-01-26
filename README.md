@@ -14,6 +14,9 @@ A modern fintech platform that combines seamless payments, crypto access, and sm
 ### 🔹 [Venny](https://venny-psi.vercel.app/)
 Venny is a modern architecture and real estate website 
 
+### 🔹 [Agrocircle](https://agrocircle.vercel.app/)
+A digital platform focused on transforming and modernizing agribusiness
+
 
 ## Tech Stack 👩‍💻
 <p align="center" space-5 >
