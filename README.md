@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/obiajulu_dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 ##  What I’m Working On 🚀
-### 🔹 [Dev point](https://devyy.vercel.app/)
+### 🔹 [Devpoint](https://devyy.vercel.app/)
 A modern fintech platform that combines seamless payments, crypto access, and smart financial tools 
 
 ### 🔹 [Venny](https://venny-psi.vercel.app/)
