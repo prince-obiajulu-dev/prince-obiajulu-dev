@@ -11,23 +11,38 @@
 ### 🔹 [Devpoint](https://devyy.vercel.app/)
 A modern fintech platform that combines seamless payments, crypto access, and smart financial tools 
 
-### 🔹 [Venny](https://venny-psi.vercel.app/)
+### 🔹 [Chuks kitchen](https://chuckskit.vercel.app/)
 Venny is a modern architecture and real estate website 
 
-### 🔹 [Agrocircle](https://agrocircle.vercel.app/)
+### 🔹 [Talent Flow](https://talentflow-eight-weld.vercel.app/)
 A digital platform focused on transforming and modernizing agribusiness
 
 
 ## Tech Stack 👩‍💻
 <p align="center" space-5 >
-<li>HTML</li>
-  <li>CSS</li>
+<li>HTML5</li>
+<li>CSS3</li>
 <li>JavaScript</li>
-<li>React.JS</li>
-<li>Next.js</li>
 <li>TypeScript</li>
+<li>React</li>
+<li>Next.js</li>
 <li>Tailwind CSS</li>
+<li>Redux</li>
+<li>Framer Motion</li>
+<li>React Native</li>
+<li>Expo</li>
+<li>Node.js</li>
+<li>Express.js</li>
+<li>MongoDB</li>
+<li>Python</li>
+<li>Supabase</li>
 <li>Git</li>
+<li>GitHub</li>
+<li>Postman</li>
+<li>Figma</li>
+<li>Vercel</li>
+<li>VS Code</li>
+<li>Networking</li>
   
 </p>
 
