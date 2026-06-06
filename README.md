@@ -9,13 +9,13 @@
 
 ##  What I’m Working On 🚀
 ### 🔹 [Devpoint](https://devyy.vercel.app/)
-A modern fintech platform that combines seamless payments, crypto access, and smart financial tools 
+A comprehensive digital payment platform that enables users to seamlessly pay for utilities while also supporting secure cryptocurrency transactions.
 
 ### 🔹 [Chuks kitchen](https://chuckskit.vercel.app/)
-Venny is a modern architecture and real estate website 
+A modern Nigerian cuisine platform that brings authentic home-cooked meals to your doorstep. Features an intuitive ordering system, personalized user accounts, and seamless meal discovery for the best local dishes.
 
 ### 🔹 [Talent Flow](https://talentflow-eight-weld.vercel.app/)
-A digital platform focused on transforming and modernizing agribusiness
+TalentFlow is a modern Learning Management System (LMS) designed to deliver exceptional online education experiences. The platform provides a comprehensive solution for course creation, student engagement, assessment management, and learning analytics.
 
 
 ## Tech Stack 👩‍💻
