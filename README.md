@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/prince.obiajulu.dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 ##  What I’m Working On 🚀
-### 🔹 [Devpoint](https://devyy.vercel.app/)
+### 🔹 [Devpoint](https://devpoint.space)
 A comprehensive digital payment platform that enables users to seamlessly pay for utilities while also supporting secure cryptocurrency transactions.
 
 ### 🔹 [Chuks kitchen](https://chuckskit.vercel.app/)
