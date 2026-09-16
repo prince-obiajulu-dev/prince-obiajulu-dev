@@ -11,7 +11,7 @@
 ### 🔹 [Devpoint](https://devpoint.space)
 A comprehensive digital payment platform that enables users to seamlessly pay for utilities while also supporting secure cryptocurrency transactions.
 
-### 🔹 [Mirrorly]()
+### 🔹 [Mirrorly]
 Mirrorly is an AI-powered virtual fashion try-on platform that lets users see how clothing looks on their own 3D avatar before buying. I worked on building the interactive frontend experience, including the avatar creation flow
 
 ### 🔹 [Talent Flow](https://talentflow-eight-weld.vercel.app/)
